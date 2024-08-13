@@ -1,0 +1,10 @@
+let firstName = 'Deepak';
+let lastName = 'kumar';
+let maritalStatus = 'Single';
+let country = 'India';
+let age = 20;
+console.log('First Name:', firstName);
+console.log('Last Name:', lastName);
+console.log('Marital Status:', maritalStatus);
+console.log('Country:', country);
+console.log('Age:',age);

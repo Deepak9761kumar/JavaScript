@@ -1,0 +1,11 @@
+console.log(4 > 3 && 10 < 12); 
+console.log(4 > 3 && 10 > 12); 
+console.log(4 > 3 || 10 < 12); 
+console.log(4 > 3 || 10 > 12); 
+console.log(!(4 > 3));          
+console.log(!(4 < 3));         
+console.log(!(false));         
+console.log(!(4 > 3 && 10 < 12)); 
+console.log(!(4 > 3 && 10 > 12)); 
+console.log(!(4 === '4'));      
+console.log("There is no 'on' in both dragon and python");
